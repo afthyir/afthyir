@@ -1,61 +1,32 @@
-# Search and AI discoverability
+# Website search notes
 
-This repository is designed to make the public Afthyir profile easier to understand and reference consistently. It does not guarantee indexing, rankings, knowledge-panel inclusion or AI citations.
+This document contains implementation notes for the official website. It is not a second biography or technology list.
 
-## Canonical identity
+## Canonical website
 
-- Person: Afthy Irshath
-- Online name: Afthyir
-- Canonical website: https://www.afthyir.co.uk/
-- GitHub profile: https://github.com/afthyir
-- Profile image: https://www.afthyir.co.uk/assets/image.png
+https://www.afthyir.co.uk/
 
-Use the canonical HTTPS URL consistently. Avoid creating competing spellings or alternate profile identities.
+## Recommended checks
 
-## Files for machine understanding
+- Use the canonical URL consistently in page metadata and internal links.
+- Give the homepage a clear title and description identifying Afthy Irshath and the developer profile.
+- Keep the About, Stack and Focus content available as crawlable HTML text.
+- Add the Person JSON-LD from [person.jsonld](../metadata/person.jsonld) to the homepage if its details match the live page.
+- Keep the profile image's alternative text descriptive.
+- Link the website and GitHub profile to each other.
+- Maintain a sitemap.xml and robots.txt.
+- Check indexing and sitemap status in Google Search Console.
+- Validate structured data before publishing changes.
 
-- `../llms.txt`: short, human-readable context for AI systems.
-- `../metadata/profile.json`: structured profile facts in JSON.
-- `../metadata/person.jsonld`: Schema.org Person JSON-LD example.
-- `../README.md`: detailed human-readable profile.
-- `PROFILE.md` and `TECH-STACK.md`: supporting documentation.
+## Accuracy
 
-## Recommended website implementation
+Do not add unconfirmed social accounts, qualifications, clients, awards, certifications or professional security claims. Keep public profile information consistent with the official website.
 
-The following are recommendations, not claims that they are already implemented:
+Search engines and AI services decide independently what to index or reference. These practices improve clarity but do not guarantee rankings or citations.
 
-1. Set the homepage canonical URL to `https://www.afthyir.co.uk/`.
-2. Use a unique title and meta description that accurately identify Afthy Irshath and the developer profile.
-3. Add the Person JSON-LD from `../metadata/person.jsonld` to the homepage, adapting it to the site's actual content and validating the result.
-4. Ensure the profile image has descriptive alternative text, such as `Afthy Irshath, known online as Afthyir`.
-5. Link the website to the official GitHub profile and link the GitHub profile back to the website.
-6. Keep the About, Stack and Focus sections crawlable as meaningful HTML text.
-7. Publish and maintain an XML sitemap and a sensible robots.txt.
-8. Use descriptive page headings and accessible link labels.
-9. Keep profile facts consistent across the website and public profiles.
-10. Use Search Console to inspect indexing and submit the sitemap.
-
-## Accuracy rules
-
-- Do not create fake testimonials, reviews, awards, certifications or company details.
-- Do not claim that AI systems have verified or endorsed the profile.
-- Do not add social profiles unless their exact URLs are confirmed.
-- Do not keyword-stuff the site or repository.
-- Update this repository when the canonical website changes.
-
-## Validation
-
-Before deploying website metadata:
-
-- Validate JSON and JSON-LD syntax.
-- Test structured data with Google's Rich Results Test and Schema Markup Validator where appropriate.
-- Check canonical tags, sitemap accessibility, robots directives and mobile rendering.
-- Inspect indexing status in Google Search Console.
-- Verify that external icon and image assets load and provide accessible text alternatives.
-
-Useful references:
+## References
 
 - Google Search Central: https://developers.google.com/search
-- Google structured data policies: https://developers.google.com/search/docs/appearance/structured-data/sd-policies
+- Structured data policies: https://developers.google.com/search/docs/appearance/structured-data/sd-policies
 - Schema.org Person: https://schema.org/Person
-- llms.txt proposal: https://llmstxt.org/
+- llms.txt: https://llmstxt.org/
