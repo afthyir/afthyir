@@ -47,7 +47,7 @@ I'm also studying networking, Linux and cybersecurity fundamentals. I want to un
   <img alt="Linux and GitHub" src="https://skillicons.dev/icons?i=linux,github&theme=dark" />
 </p>
 
-A complete list and official links are in [TECH-STACK.md](./docs/TECH-STACK.md).
+A complete list and official links are in [stack.md](./docs/stack.md).
 
 ## Current focus
 
@@ -67,7 +67,7 @@ My website has my profile, social links and current work.
 ## Repository
 
 - [llms.txt](./llms.txt): concise information for AI systems.
-- [Technology stack](./docs/TECH-STACK.md): tools and official websites.
+- [Technology stack](./docs/stack.md): tools and official websites.
 - [SEO notes](./docs/SEO.md): recommendations for the website.
 - [Person metadata](./metadata/person.jsonld): Schema.org data.
 - [OpenAI icon](./assets/openai.svg): locally stored SVG used above.
