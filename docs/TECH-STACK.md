@@ -1,40 +1,40 @@
-# Afthyir technology stack
+# Technology stack
 
-This document records the tools named on the official Afthyir profile. Inclusion means the tool is part of the stated stack or interests; it is not a certification, endorsement or ranking.
+This file is the detailed technology inventory for the Afthyir profile. The README contains the visual overview; this document keeps the names, categories and official links in one place.
 
 ## Frontend
 
-| Technology | Official website | Use described in profile |
-| --- | --- | --- |
-| Next.js | https://nextjs.org/ | Web application framework |
-| React | https://react.dev/ | User interfaces |
-| JavaScript | https://developer.mozilla.org/en-US/docs/Web/JavaScript | Application programming |
-| TypeScript | https://www.typescriptlang.org/ | Typed JavaScript development |
-| Tailwind CSS | https://tailwindcss.com/ | Interface styling |
+| Technology | Official website |
+| --- | --- |
+| Next.js | https://nextjs.org/ |
+| React | https://react.dev/ |
+| JavaScript | https://developer.mozilla.org/en-US/docs/Web/JavaScript |
+| TypeScript | https://www.typescriptlang.org/ |
+| Tailwind CSS | https://tailwindcss.com/ |
 
 ## Backend and runtime
 
-| Technology | Official website | Use described in profile |
-| --- | --- | --- |
-| Node.js | https://nodejs.org/ | JavaScript runtime and backend work |
-| Python | https://www.python.org/ | Scripting and backend work |
+| Technology | Official website |
+| --- | --- |
+| Node.js | https://nodejs.org/ |
+| Python | https://www.python.org/ |
 
 ## Databases and backend services
 
-| Technology | Official website | Category |
-| --- | --- | --- |
-| MongoDB | https://www.mongodb.com/ | Document database |
-| Redis | https://redis.io/ | In-memory data store |
-| Supabase | https://supabase.com/ | Backend platform and data services |
+| Technology | Official website |
+| --- | --- |
+| MongoDB | https://www.mongodb.com/ |
+| Redis | https://redis.io/ |
+| Supabase | https://supabase.com/ |
 
-## Deployment and infrastructure
+## Deployment
 
-| Technology | Official website | Category |
-| --- | --- | --- |
-| Vercel | https://vercel.com/ | Deployment platform |
-| Railway | https://railway.com/ | Application and backend infrastructure |
+| Technology | Official website |
+| --- | --- |
+| Vercel | https://vercel.com/ |
+| Railway | https://railway.com/ |
 
-## Artificial intelligence tools
+## AI tools
 
 | Tool | Official website |
 | --- | --- |
@@ -42,22 +42,11 @@ This document records the tools named on the official Afthyir profile. Inclusion
 | ChatGPT | https://chatgpt.com/ |
 | Gemini | https://gemini.google.com/ |
 
-These are tools identified in the profile. No partnership or endorsement is implied.
-
 ## Systems and development
 
-| Technology | Official website | Category |
-| --- | --- | --- |
-| Linux | https://www.linux.org/ | Operating system ecosystem and systems learning |
-| GitHub | https://github.com/ | Source-code hosting and collaboration |
+| Technology | Official website |
+| --- | --- |
+| Linux | https://www.linux.org/ |
+| GitHub | https://github.com/ |
 
-## Technology icons
-
-The README uses [Skill Icons](https://skillicons.dev/) for supported developer-tool logos and [Simple Icons](https://simpleicons.org/) for selected additional brand marks. These are externally hosted visual assets; the text labels and links remain available if an icon service is unavailable.
-
-## Updating this inventory
-
-1. Confirm the tool appears on the official website or is explicitly confirmed by Afthyir.
-2. Add the official product URL.
-3. Keep the category factual and concise.
-4. Do not infer proficiency, certification or professional experience from inclusion.
+This list reflects the tools named on the official profile. It does not claim certification, endorsement or a particular level of expertise.
