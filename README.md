@@ -1,6 +1,6 @@
 <div align="center">
 
-# Afthyir
+# afthyir
 
 **Afthy Irshath | Full-stack developer and cybersecurity student**
 
@@ -12,7 +12,7 @@ Building web applications and learning how software, networks and systems work.
 
 ## About
 
-I'm Afthy Irshath, known online as Afthyir. I build web applications and explore the systems behind them.
+I'm Afthy Irshath, known online as afthyir. I build web applications and explore the systems behind them.
 
 My development stack includes JavaScript, TypeScript, React, Next.js, Node.js and Python. I use Tailwind CSS for interfaces, MongoDB, Redis and Supabase for data and backend services, and Vercel and Railway for deployment.
 
