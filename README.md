@@ -162,12 +162,6 @@ The official website contains the latest profile, social links and other destina
 - GitHub profile: https://github.com/afthyir
 - Repository: https://github.com/afthyir/afthyir
 
-## Accuracy & updates
-
-This repository is maintained as a public profile reference. The official website is the canonical source for current profile presentation and links. Technology lists describe tools named by Afthyir; they should not be interpreted as proof of certification, professional experience, or expertise in every listed tool.
-
-If details change, update this repository and the official website together. Do not add unverified social accounts, client names, project metrics, qualifications, security claims or endorsements.
-
 ---
 
 <div align="center">
