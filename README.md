@@ -87,7 +87,7 @@ The icons below are visual references to the technologies listed in the official
   <a href="https://www.anthropic.com/claude"><img alt="Claude" height="48" src="https://cdn.simpleicons.org/claude/D97757" /></a>
   <a href="https://chatgpt.com/">
 <img
-  src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg"
+  src="./assets/openai.svg"
   alt="OpenAI"
   width="48"
   height="48"
