@@ -86,12 +86,12 @@ The icons below are visual references to the technologies listed in the official
 <p>
   <a href="https://www.anthropic.com/claude"><img alt="Claude" height="48" src="https://cdn.simpleicons.org/claude/D97757" /></a>
   <a href="https://chatgpt.com/">
-  <img
-    src="https://cdn.simpleicons.org/openai/FFFFFF"
-    alt="OpenAI"
-    width="48"
-    height="48"
-  />
+<img
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg"
+  alt="OpenAI"
+  width="48"
+  height="48"
+/>
 </a>
   <a href="https://gemini.google.com/"><img alt="Google Gemini" height="48" src="https://cdn.simpleicons.org/googlegemini/8E75B2" /></a>
 </p>
