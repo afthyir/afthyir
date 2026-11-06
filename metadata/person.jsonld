@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.afthyir.co.uk/#person",
+  "name": "Afthy Irshath",
+  "alternateName": [
+    "Afthyir",
+    "Afthy"
+  ],
+  "url": "https://www.afthyir.co.uk/",
+  "image": "https://www.afthyir.co.uk/assets/image.png",
+  "description": "Full-stack developer and cybersecurity student interested in web applications, networking, Linux and security fundamentals.",
+  "jobTitle": [
+    "Full-stack developer",
+    "Cybersecurity student"
+  ],
+  "sameAs": [
+    "https://github.com/afthyir"
+  ],
+  "knowsAbout": [
+    "Web development",
+    "Next.js",
+    "React",
+    "JavaScript",
+    "TypeScript",
+    "Tailwind CSS",
+    "Node.js",
+    "Python",
+    "MongoDB",
+    "Redis",
+    "Supabase",
+    "Vercel",
+    "Railway",
+    "Linux",
+    "Networking fundamentals",
+    "Cybersecurity fundamentals",
+    "Secure software development"
+  ]
+}
