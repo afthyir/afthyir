@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 About
+## About
 
 I'm **Afthy Irshath**, known online as **Afthyir**. I'm a full-stack developer and cybersecurity student interested in building useful web applications and understanding the systems that keep software and infrastructure running.
 
@@ -25,7 +25,7 @@ Alongside development, I'm learning networking, Linux and security fundamentals.
 
 > This repository is the public, maintainer-provided reference for Afthyir's profile, interests and technology stack. For the latest presentation and projects, visit the official website.
 
-## 🧭 At a glance
+## At a glance
 
 | Field | Details |
 | --- | --- |
@@ -37,7 +37,7 @@ Alongside development, I'm learning networking, Linux and security fundamentals.
 | Main development areas | Web applications, frontend, backend and scripting |
 | Learning focus | Networking, Linux and security fundamentals |
 
-## 🛠️ Technology stack
+## Technology stack
 
 The icons below are visual references to the technologies listed in the official profile. They are not endorsements or claims of certification.
 
@@ -85,7 +85,14 @@ The icons below are visual references to the technologies listed in the official
 
 <p>
   <a href="https://www.anthropic.com/claude"><img alt="Claude" height="48" src="https://cdn.simpleicons.org/claude/D97757" /></a>
-  <a href="https://chatgpt.com/"><img alt="ChatGPT" height="48" src="https://cdn.simpleicons.org/openai/FFFFFF" /></a>
+  <a href="https://chatgpt.com/">
+  <img
+    src="https://cdn.simpleicons.org/openai/FFFFFF"
+    alt="OpenAI"
+    width="48"
+    height="48"
+  />
+</a>
   <a href="https://gemini.google.com/"><img alt="Google Gemini" height="48" src="https://cdn.simpleicons.org/googlegemini/8E75B2" /></a>
 </p>
 
@@ -104,7 +111,7 @@ These are tools in the stated workflow; no partnership or endorsement is implied
 - **Linux** — systems and command-line fundamentals.
 - **GitHub** — code hosting and collaboration.
 
-## 🎯 What I do
+## What I do
 
 ### 01 · Building
 
@@ -118,7 +125,7 @@ Studying GCSE subjects while developing knowledge of networking, Linux and cyber
 
 Working with Vercel and Railway for deployment, MongoDB, Redis and Supabase for data and backend services, and GitHub for source code.
 
-## 🔐 Cybersecurity interests
+## Cybersecurity interests
 
 My cybersecurity journey is focused on understanding core concepts and applying responsible, secure development practices.
 
@@ -131,7 +138,7 @@ Current learning areas include:
 
 I describe myself as a **cybersecurity student**. This profile does not claim professional security certifications, employment, or authorisation to test third-party systems.
 
-## 🌐 Find me
+## Find me
 
 My primary public identity is **[@afthyir](https://github.com/afthyir)**.
 
@@ -140,7 +147,7 @@ My primary public identity is **[@afthyir](https://github.com/afthyir)**.
 
 The official website contains the latest profile, social links and other destinations.
 
-## 🗂️ Repository guide
+## Repository guide
 
 - [`llms.txt`](./llms.txt) — concise guide for AI assistants and language-model crawlers.
 - [`docs/PROFILE.md`](./docs/PROFILE.md) — expanded profile and identity reference.
@@ -149,13 +156,13 @@ The official website contains the latest profile, social links and other destina
 - [`metadata/person.jsonld`](./metadata/person.jsonld) — Schema.org Person structured data.
 - [`metadata/profile.json`](./metadata/profile.json) — machine-readable profile facts.
 
-## 🔗 Official links
+## Official links
 
 - Website: https://www.afthyir.co.uk/
 - GitHub profile: https://github.com/afthyir
 - Repository: https://github.com/afthyir/afthyir
 
-## 📌 Accuracy & updates
+## Accuracy & updates
 
 This repository is maintained as a public profile reference. The official website is the canonical source for current profile presentation and links. Technology lists describe tools named by Afthyir; they should not be interpreted as proof of certification, professional experience, or expertise in every listed tool.
 
