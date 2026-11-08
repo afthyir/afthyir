@@ -70,7 +70,6 @@ My website has my profile, social links and current work.
 - [Technology stack](./docs/stack.md): tools and official websites.
 - [SEO notes](./docs/SEO.md): recommendations for the website.
 - [Person metadata](./metadata/person.jsonld): Schema.org data.
-- [OpenAI icon](./assets/openai.svg): locally stored SVG used above.
 
 ---
 
