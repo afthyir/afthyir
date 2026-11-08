@@ -68,7 +68,6 @@ My website has my profile, social links and current work.
 
 - [llms.txt](./llms.txt): concise information for AI systems.
 - [Technology stack](./docs/stack.md): tools and official websites.
-- [SEO notes](./docs/SEO.md): recommendations for the website.
 - [Person metadata](./metadata/person.jsonld): Schema.org data.
 
 ---
